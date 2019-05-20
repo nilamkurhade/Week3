@@ -1,0 +1,32 @@
+{
+"Avenue Supermart pvt Ltd": [
+{
+  "name": " Textile",
+  "No_of_Share": "10",
+  "price": "200"
+},
+{
+  "name": " Grocery",
+  "No_of_Share": "10",
+  "price": "1000"
+},
+  {
+  "name": " Grocery",
+  "No_of_Share": "10",
+  "price": "1000"
+}
+],
+  "HDFC Bank": [
+    {
+      "name": "Banking",
+      "No_of_Share": "5",
+      "price": "120"
+    },
+    {
+      "name": "Mutual Fund",
+      "No_of_Share": "10",
+      "price": "126"
+    }
+  ]
+}
+

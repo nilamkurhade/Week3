@@ -1,0 +1,63 @@
+{
+  "pulses": [
+    {
+      "price": "800",
+      "name": "Mung dal",
+      "weight": "10"
+    },
+    {
+      "price": "1000",
+      "name": "Channa Dal",
+      "weight": "10"
+    },
+    {
+      "price": "1500",
+      "name": "Tur Dal",
+      "weight": "10"
+    }
+  ],
+  "rice": [
+    {
+      "price": "1000",
+      "name": " Brown rice",
+      "weight": "10"
+    },
+    {
+      "price": "700",
+      "name": "Colam",
+      "weight": "10"
+    },
+    {
+      "price": "600",
+      "name": "Simple",
+      "weight": "10"
+    },
+    {
+      "price": "120",
+      "name": "kolam",
+      "weight": "5"
+    }
+  ],
+  "wheat": [
+    {
+      "price": "600",
+      "name": "Durum",
+      "weight": "10"
+    },
+    {
+      "price": "800",
+      "name": "Spelt",
+      "weight": "10"
+    },
+    {
+      "price": "300",
+      "name": "Emmer",
+      "weight": "10"
+    },
+    {
+      "price": "500",
+      "name": "Club",
+      "weight": "10"
+    }
+  ]
+}
